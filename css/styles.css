@@ -1,14 +1,13 @@
 * {
 	box-sizing: border-box;
+	max-height: 999999px;
 }
 body {
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	max-height: 999999px;
 }
 h1{
 	text-align: center;
 	font-size: 175%;
-	max-height: 999999px;
 	margin-bottom: 50px;
 }
 
