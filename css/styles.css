@@ -7,7 +7,7 @@ body {
 }
 
 @font-face {
-	font-family: "Comic"
+	font-family: "Comic";
 	src: url(fonts/ComicNeueSansID.ttf);
 	font-style: normal;
 	font-weight: bold;
