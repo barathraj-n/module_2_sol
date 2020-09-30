@@ -5,11 +5,20 @@
 body {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
-h1{
+
+@font-face {
+	font-family: "Comic"
+	src: url(fonts/ComicNeueSansID.ttf);
+	font-style: normal;
+	font-weight: bold;
+}
+
+h1
+{
 	text-align: center;
 	font-size: 175%;
 	margin-bottom: 50px;
-	font-family: "Comic Sans MS"
+	font-family: "Comic"
 }
 
 .row {
