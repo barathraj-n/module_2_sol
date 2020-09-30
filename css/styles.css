@@ -1,6 +1,8 @@
 * {
 	box-sizing: border-box;
 	max-height: 1000000px;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: none;
 }
 body {
 	font-family: "Comic Sans MS", cursive, sans-serif;
